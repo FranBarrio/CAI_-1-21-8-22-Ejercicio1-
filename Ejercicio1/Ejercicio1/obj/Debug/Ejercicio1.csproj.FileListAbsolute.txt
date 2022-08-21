@@ -1,0 +1,8 @@
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\Users\Usuario\Documents\FRANCHI UBA\CAI\Programas\Ejercicio1\CAI_-1-21-8-22-Ejercicio1-\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
